@@ -40,6 +40,4 @@ You might need to tweak offset, scale or rotation of the engraving after importi
 
 To export the dice, simply go to Main Menu -> Export. Select the die you wish to export (or all of them at once), click on the "Export" button, select location, and save. You can open the .stl files in your print preparation software of choice (like Chitubox, Lychee Slicer, etc.), and print your own, custom, unique dice masters.
 
-![Image](/assets/img/quick_start_05.gif)
-
 Happy making!
