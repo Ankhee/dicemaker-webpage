@@ -10,4 +10,4 @@ When you first open DiceMaker, you'll see an empty scene with two side panels. L
 
 Let's start by adding the first die to the scene. Select the "Add" button, then select the type of die you wish to add. Here, we've added a D20.
 
-[Image](/assets/img/quick_start_01.png)
+![Image](/assets/img/quick_start_01.png)
