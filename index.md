@@ -1,8 +1,8 @@
 Thanks for checking out DiceMaker!
 
-download: http://www.dicemaker.net
+download: [dicemaker.net](http://www.dicemaker.net)
 
-Quick Start Guide: https://ankhee.github.io/dicemaker-webpage/quick_start_guide.html
+Quick Start Guide: [ankhee.github.io/dicemaker-webpage/quick_start_guide.html](https://ankhee.github.io/dicemaker-webpage/quick_start_guide.html)
 
 contact: dicemaker.app@gmail.com
 
