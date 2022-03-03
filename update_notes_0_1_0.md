@@ -22,9 +22,9 @@ I've added five slots for custom Face Templates (named S1 to S5), and dice faces
 
 ### SVG support
 
-Perhaps most importantly, DiceMaker now supports SVG images for custom dice faces! Using SVGs over PNGs inherently results in higher quality engravings, because there's no fidelity loss during the vectorization process of raster images. This comes with a few caveats:
+Perhaps most importantly, DiceMaker now supports SVG images for custom dice faces! Using SVGs over PNGs results in inherently higher quality engravings, because there's no fidelity loss during the vectorization process of raster images. This comes with a few caveats:
 
-* All shapes in an SVG file are considered to be engravings - fill colors are disregarded
+* All shapes in a SVG file are considered to be engravings - fill colors are disregarded
 * Stroke widths are disregarded
 * Non-closed shapes (single lines, polylines, etc.) aren't supported and *might* cause errors
 * Adjacent shapes that share an edge but don't overlap **will** cause errors
